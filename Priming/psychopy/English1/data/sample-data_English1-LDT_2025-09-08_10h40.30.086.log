@@ -1,0 +1,1383 @@
+16.6527 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+16.6539 	INFO 	Loaded monitor calibration from ['2023_09_17 13:39']
+16.8117 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x155b4b010>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x155b4b070>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x155b23310>, multiSample=False, name='window1', numSamples=2, pos=[880.0, 420.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.8117 	EXP 	window1: backgroundImage = ''
+16.8117 	EXP 	window1: backgroundFit = 'none'
+16.8187 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8192 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8197 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8203 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8211 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8213 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8219 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8225 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8227 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8228 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8233 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8238 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8242 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8247 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8250 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8255 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8260 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8262 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8265 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8271 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8274 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8275 	DEBUG 	Uploading Texture Font fontname to graphics card
+16.8304 	DEBUG 	Upload of Texture Font fontname complete
+16.8346 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8353 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8360 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.8362 	DEBUG 	Uploading Texture Font fontname to graphics card
+16.8381 	DEBUG 	Upload of Texture Font fontname complete
+16.8394 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+16.8394 	EXP 	window1: recordFrameIntervals = False
+17.0341 	EXP 	window1: recordFrameIntervals = True
+17.8701 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+17.8785 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.8792 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.8804 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.8818 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.8830 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.8843 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.8848 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.8859 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.8871 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.8883 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.8886 	DEBUG 	Uploading Texture Font fontname to graphics card
+17.8920 	DEBUG 	Upload of Texture Font fontname complete
+20.0419 	INFO 	keyboard.Keyboard is using ptb backend.
+20.3656 	INFO 	keyboard.Keyboard is using ptb backend.
+20.6974 	INFO 	keyboard.Keyboard is using ptb backend.
+21.0209 	INFO 	keyboard.Keyboard is using ptb backend.
+21.3523 	INFO 	keyboard.Keyboard is using ptb backend.
+21.6755 	INFO 	keyboard.Keyboard is using ptb backend.
+22.0072 	INFO 	keyboard.Keyboard is using ptb backend.
+22.3304 	INFO 	keyboard.Keyboard is using ptb backend.
+22.6617 	INFO 	keyboard.Keyboard is using ptb backend.
+22.9883 	INFO 	keyboard.Keyboard is using ptb backend.
+23.3196 	INFO 	keyboard.Keyboard is using ptb backend.
+23.6464 	INFO 	keyboard.Keyboard is using ptb backend.
+23.6464 	EXP 	English1-LDT: status = STARTED
+23.6767 	EXP 	Created instructions2Disp = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instructions2Disp', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.6811 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.6860 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.6900 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.6940 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.6977 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.7005 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_6', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.7023 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_7', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Press SPACE BAR to start the practice.', units='height', win=Window(...), wrapWidth=1)
+23.7035 	EXP 	Created prFixationDisp = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='prFixationDisp', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+23.7039 	EXP 	Created prPrimeDisp = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='prPrimeDisp', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.7043 	EXP 	Created prTargetDisp = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='prTargetDisp', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.7063 	EXP 	Created readyDisp = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='readyDisp', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.7073 	EXP 	Created fixationDisp = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixationDisp', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+23.7077 	EXP 	Created primeDisp = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='primeDisp', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.7080 	EXP 	Created targetDisp = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='targetDisp', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.7100 	EXP 	Created completeMessage = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='completeMessage', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='You have finished the experiment!\n', units='height', win=Window(...), wrapWidth=1)
+0.0102 	INFO 	Keyboard events cleared
+0.0102 	EXP 	instructions2Disp: autoDraw = True
+5.7447 	DATA 	Keypress: space
+5.7476 	INFO 	Keyboard events cleared
+5.7475 	WARNING 	t of last frame was 85.96ms (=1/11)
+5.7475 	EXP 	instructions2Disp: autoDraw = False
+5.7475 	EXP 	text: autoDraw = True
+8.0920 	DATA 	Keypress: space
+8.0951 	INFO 	Keyboard events cleared
+8.0950 	EXP 	text: autoDraw = False
+8.0950 	EXP 	text_2: autoDraw = True
+9.9629 	DATA 	Keypress: space
+9.9663 	INFO 	Keyboard events cleared
+9.9662 	EXP 	text_2: autoDraw = False
+9.9662 	EXP 	text_3: autoDraw = True
+11.4629 	DATA 	Keypress: space
+11.4662 	INFO 	Keyboard events cleared
+11.4661 	EXP 	text_3: autoDraw = False
+11.4661 	EXP 	text_4: autoDraw = True
+12.3310 	WARNING 	t of last frame was 26.84ms (=1/37)
+13.1460 	DATA 	Keypress: space
+13.1495 	INFO 	Keyboard events cleared
+13.1495 	EXP 	text_4: autoDraw = False
+13.1495 	EXP 	text_5: autoDraw = True
+14.5810 	DATA 	Keypress: space
+14.5836 	INFO 	Keyboard events cleared
+14.5835 	EXP 	text_5: autoDraw = False
+14.5835 	EXP 	text_6: autoDraw = True
+16.5955 	DATA 	Keypress: space
+16.5989 	INFO 	Keyboard events cleared
+16.5988 	EXP 	text_6: autoDraw = False
+16.5988 	EXP 	text_7: autoDraw = True
+18.0351 	DEBUG 	Read excel file with openpyxl: EnglishPractice.xlsx
+18.0358 	EXP 	Imported EnglishPractice.xlsx as conditions, 9 conditions, 3 params
+18.0376 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'prime': 'conference', 'target': 'strenger ', 'condition': 'practice', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+18.0397 	DATA 	Keypress: space
+18.0427 	WARNING 	t of last frame was 20.42ms (=1/48)
+18.0427 	EXP 	text_7: autoDraw = False
+18.5224 	EXP 	prFixationDisp: autoDraw = True
+19.5118 	EXP 	prFixationDisp: autoDraw = False
+19.5118 	EXP 	prFixationDisp: autoDraw = False
+19.5118 	EXP 	prPrimeDisp: height = 0.05
+19.5118 	EXP 	prPrimeDisp: height = 0.05
+19.5118 	EXP 	prPrimeDisp: height = 0.05
+19.5118 	EXP 	prPrimeDisp: text = 'conference'
+19.5215 	EXP 	prPrimeDisp: autoDraw = True
+20.0135 	EXP 	prPrimeDisp: autoDraw = False
+20.0135 	EXP 	prPrimeDisp: autoDraw = False
+20.0135 	EXP 	prTargetDisp: height = 0.05
+20.0135 	EXP 	prTargetDisp: height = 0.05
+20.0135 	EXP 	prTargetDisp: height = 0.05
+20.0135 	EXP 	prTargetDisp: text = 'strenger '
+20.0213 	INFO 	Keyboard events cleared
+20.0213 	EXP 	prTargetDisp: autoDraw = True
+20.7922 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'prime': 'town', 'target': 'grape ', 'condition': 'practice', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+20.7951 	DATA 	Keypress: f
+20.7982 	EXP 	prTargetDisp: autoDraw = False
+21.2888 	EXP 	prFixationDisp: autoDraw = True
+22.2808 	EXP 	prFixationDisp: autoDraw = False
+22.2808 	EXP 	prFixationDisp: autoDraw = False
+22.2808 	EXP 	prPrimeDisp: height = 0.05
+22.2808 	EXP 	prPrimeDisp: height = 0.05
+22.2808 	EXP 	prPrimeDisp: height = 0.05
+22.2808 	EXP 	prPrimeDisp: text = 'town'
+22.2879 	EXP 	prPrimeDisp: autoDraw = True
+22.7806 	EXP 	prPrimeDisp: autoDraw = False
+22.7806 	EXP 	prPrimeDisp: autoDraw = False
+22.7806 	EXP 	prTargetDisp: height = 0.05
+22.7806 	EXP 	prTargetDisp: height = 0.05
+22.7806 	EXP 	prTargetDisp: height = 0.05
+22.7806 	EXP 	prTargetDisp: text = 'grape '
+22.7880 	INFO 	Keyboard events cleared
+22.7879 	EXP 	prTargetDisp: autoDraw = True
+23.2920 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'prime': 'outside', 'target': 'tecopomic ', 'condition': 'practice', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+23.2945 	DATA 	Keypress: j
+23.2976 	EXP 	prTargetDisp: autoDraw = False
+23.7889 	EXP 	prFixationDisp: autoDraw = True
+24.7805 	EXP 	prFixationDisp: autoDraw = False
+24.7805 	EXP 	prFixationDisp: autoDraw = False
+24.7805 	EXP 	prPrimeDisp: height = 0.05
+24.7805 	EXP 	prPrimeDisp: height = 0.05
+24.7805 	EXP 	prPrimeDisp: height = 0.05
+24.7805 	EXP 	prPrimeDisp: text = 'outside'
+24.7879 	EXP 	prPrimeDisp: autoDraw = True
+25.2801 	EXP 	prPrimeDisp: autoDraw = False
+25.2801 	EXP 	prPrimeDisp: autoDraw = False
+25.2801 	EXP 	prTargetDisp: height = 0.05
+25.2801 	EXP 	prTargetDisp: height = 0.05
+25.2801 	EXP 	prTargetDisp: height = 0.05
+25.2801 	EXP 	prTargetDisp: text = 'tecopomic '
+25.2882 	INFO 	Keyboard events cleared
+25.2881 	EXP 	prTargetDisp: autoDraw = True
+25.8417 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'prime': 'schoolwork', 'target': 'comb ', 'condition': 'practice', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+25.8443 	DATA 	Keypress: f
+25.8476 	EXP 	prTargetDisp: autoDraw = False
+26.3389 	EXP 	prFixationDisp: autoDraw = True
+27.3307 	EXP 	prFixationDisp: autoDraw = False
+27.3307 	EXP 	prFixationDisp: autoDraw = False
+27.3307 	EXP 	prPrimeDisp: height = 0.05
+27.3307 	EXP 	prPrimeDisp: height = 0.05
+27.3307 	EXP 	prPrimeDisp: height = 0.05
+27.3307 	EXP 	prPrimeDisp: text = 'schoolwork'
+27.3379 	EXP 	prPrimeDisp: autoDraw = True
+27.8300 	EXP 	prPrimeDisp: autoDraw = False
+27.8300 	EXP 	prPrimeDisp: autoDraw = False
+27.8300 	EXP 	prTargetDisp: height = 0.05
+27.8300 	EXP 	prTargetDisp: height = 0.05
+27.8300 	EXP 	prTargetDisp: height = 0.05
+27.8300 	EXP 	prTargetDisp: text = 'comb '
+27.8389 	INFO 	Keyboard events cleared
+27.8388 	EXP 	prTargetDisp: autoDraw = True
+28.6140 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'prime': 'rent', 'target': 'sunkay ', 'condition': 'practice', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+28.6166 	DATA 	Keypress: j
+28.6212 	EXP 	prTargetDisp: autoDraw = False
+29.1112 	EXP 	prFixationDisp: autoDraw = True
+30.1047 	EXP 	prFixationDisp: autoDraw = False
+30.1047 	EXP 	prFixationDisp: autoDraw = False
+30.1047 	EXP 	prPrimeDisp: height = 0.05
+30.1047 	EXP 	prPrimeDisp: height = 0.05
+30.1047 	EXP 	prPrimeDisp: height = 0.05
+30.1047 	EXP 	prPrimeDisp: text = 'rent'
+30.1109 	EXP 	prPrimeDisp: autoDraw = True
+30.6054 	EXP 	prPrimeDisp: autoDraw = False
+30.6054 	EXP 	prPrimeDisp: autoDraw = False
+30.6054 	EXP 	prTargetDisp: height = 0.05
+30.6054 	EXP 	prTargetDisp: height = 0.05
+30.6054 	EXP 	prTargetDisp: height = 0.05
+30.6054 	EXP 	prTargetDisp: text = 'sunkay '
+30.6113 	INFO 	Keyboard events cleared
+30.6113 	EXP 	prTargetDisp: autoDraw = True
+31.2583 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'prime': 'memorize', 'target': 'vocabulary word ', 'condition': 'practice', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+31.2609 	DATA 	Keypress: f
+31.2644 	EXP 	prTargetDisp: autoDraw = False
+31.7554 	EXP 	prFixationDisp: autoDraw = True
+32.7473 	EXP 	prFixationDisp: autoDraw = False
+32.7473 	EXP 	prFixationDisp: autoDraw = False
+32.7473 	EXP 	prPrimeDisp: height = 0.05
+32.7473 	EXP 	prPrimeDisp: height = 0.05
+32.7473 	EXP 	prPrimeDisp: height = 0.05
+32.7473 	EXP 	prPrimeDisp: text = 'memorize'
+32.7546 	EXP 	prPrimeDisp: autoDraw = True
+33.2468 	EXP 	prPrimeDisp: autoDraw = False
+33.2468 	EXP 	prPrimeDisp: autoDraw = False
+33.2468 	EXP 	prTargetDisp: height = 0.05
+33.2468 	EXP 	prTargetDisp: height = 0.05
+33.2468 	EXP 	prTargetDisp: height = 0.05
+33.2468 	EXP 	prTargetDisp: text = 'vocabulary word '
+33.2547 	INFO 	Keyboard events cleared
+33.2547 	EXP 	prTargetDisp: autoDraw = True
+33.8643 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'prime': 'celebration', 'target': 'trammick ', 'condition': 'practice', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+33.8668 	DATA 	Keypress: j
+33.8711 	EXP 	prTargetDisp: autoDraw = False
+34.3613 	EXP 	prFixationDisp: autoDraw = True
+35.3547 	EXP 	prFixationDisp: autoDraw = False
+35.3547 	EXP 	prFixationDisp: autoDraw = False
+35.3547 	EXP 	prPrimeDisp: height = 0.05
+35.3547 	EXP 	prPrimeDisp: height = 0.05
+35.3547 	EXP 	prPrimeDisp: height = 0.05
+35.3547 	EXP 	prPrimeDisp: text = 'celebration'
+35.3599 	EXP 	prPrimeDisp: autoDraw = True
+35.8553 	EXP 	prPrimeDisp: autoDraw = False
+35.8553 	EXP 	prPrimeDisp: autoDraw = False
+35.8553 	EXP 	prTargetDisp: height = 0.05
+35.8553 	EXP 	prTargetDisp: height = 0.05
+35.8553 	EXP 	prTargetDisp: height = 0.05
+35.8553 	EXP 	prTargetDisp: text = 'trammick '
+35.8616 	INFO 	Keyboard events cleared
+35.8615 	EXP 	prTargetDisp: autoDraw = True
+36.5306 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'prime': 'elephant', 'target': 'zaluke ', 'condition': 'practice', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+36.5378 	EXP 	prTargetDisp: autoDraw = False
+36.5402 	DATA 	Keypress: f
+37.0273 	EXP 	prFixationDisp: autoDraw = True
+38.0211 	EXP 	prFixationDisp: autoDraw = False
+38.0211 	EXP 	prFixationDisp: autoDraw = False
+38.0211 	EXP 	prPrimeDisp: height = 0.05
+38.0211 	EXP 	prPrimeDisp: height = 0.05
+38.0211 	EXP 	prPrimeDisp: height = 0.05
+38.0211 	EXP 	prPrimeDisp: text = 'elephant'
+38.0271 	EXP 	prPrimeDisp: autoDraw = True
+38.5217 	EXP 	prPrimeDisp: autoDraw = False
+38.5217 	EXP 	prPrimeDisp: autoDraw = False
+38.5217 	EXP 	prTargetDisp: height = 0.05
+38.5217 	EXP 	prTargetDisp: height = 0.05
+38.5217 	EXP 	prTargetDisp: height = 0.05
+38.5217 	EXP 	prTargetDisp: text = 'zaluke '
+38.5279 	INFO 	Keyboard events cleared
+38.5278 	EXP 	prTargetDisp: autoDraw = True
+39.3752 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'prime': 'effect', 'target': 'country ', 'condition': 'practice', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+39.3778 	DATA 	Keypress: f
+39.3811 	EXP 	prTargetDisp: autoDraw = False
+39.8721 	EXP 	prFixationDisp: autoDraw = True
+40.8633 	EXP 	prFixationDisp: autoDraw = False
+40.8633 	EXP 	prFixationDisp: autoDraw = False
+40.8633 	EXP 	prPrimeDisp: height = 0.05
+40.8633 	EXP 	prPrimeDisp: height = 0.05
+40.8633 	EXP 	prPrimeDisp: height = 0.05
+40.8633 	EXP 	prPrimeDisp: text = 'effect'
+40.8712 	EXP 	prPrimeDisp: autoDraw = True
+41.3633 	EXP 	prPrimeDisp: autoDraw = False
+41.3633 	EXP 	prPrimeDisp: autoDraw = False
+41.3633 	EXP 	prTargetDisp: height = 0.05
+41.3633 	EXP 	prTargetDisp: height = 0.05
+41.3633 	EXP 	prTargetDisp: height = 0.05
+41.3633 	EXP 	prTargetDisp: text = 'country '
+41.3713 	INFO 	Keyboard events cleared
+41.3712 	EXP 	prTargetDisp: autoDraw = True
+42.0625 	DATA 	Keypress: j
+42.0658 	INFO 	Keyboard events cleared
+42.0658 	EXP 	prTargetDisp: autoDraw = False
+42.0658 	EXP 	readyDisp: autoDraw = True
+43.3854 	DEBUG 	Read excel file with openpyxl: English1.xlsx
+43.3885 	EXP 	Imported English1.xlsx as conditions, 56 conditions, 3 params
+43.3892 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'prime': 'prejudice', 'target': 'discrimination ', 'condition': 'A', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+43.3911 	DATA 	Keypress: space
+43.3938 	WARNING 	t of last frame was 21.76ms (=1/45)
+43.3938 	EXP 	readyDisp: autoDraw = False
+43.8719 	EXP 	fixationDisp: autoDraw = True
+44.8637 	EXP 	fixationDisp: autoDraw = False
+44.8637 	EXP 	fixationDisp: autoDraw = False
+44.8637 	EXP 	primeDisp: height = 0.05
+44.8637 	EXP 	primeDisp: height = 0.05
+44.8637 	EXP 	primeDisp: height = 0.05
+44.8637 	EXP 	primeDisp: text = 'prejudice'
+44.8710 	EXP 	primeDisp: autoDraw = True
+45.3637 	EXP 	primeDisp: autoDraw = False
+45.3637 	EXP 	primeDisp: autoDraw = False
+45.3637 	EXP 	targetDisp: height = 0.05
+45.3637 	EXP 	targetDisp: height = 0.05
+45.3637 	EXP 	targetDisp: height = 0.05
+45.3637 	EXP 	targetDisp: text = 'discrimination '
+45.3710 	INFO 	Keyboard events cleared
+45.3709 	EXP 	targetDisp: autoDraw = True
+46.0758 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'prime': 'thought', 'target': 'hospital ', 'condition': 'B', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+46.0787 	DATA 	Keypress: j
+46.0822 	EXP 	targetDisp: autoDraw = False
+46.5718 	EXP 	fixationDisp: autoDraw = True
+47.5634 	EXP 	fixationDisp: autoDraw = False
+47.5634 	EXP 	fixationDisp: autoDraw = False
+47.5634 	EXP 	primeDisp: height = 0.05
+47.5634 	EXP 	primeDisp: height = 0.05
+47.5634 	EXP 	primeDisp: height = 0.05
+47.5634 	EXP 	primeDisp: text = 'thought'
+47.5710 	EXP 	primeDisp: autoDraw = True
+48.0634 	EXP 	primeDisp: autoDraw = False
+48.0634 	EXP 	primeDisp: autoDraw = False
+48.0634 	EXP 	targetDisp: height = 0.05
+48.0634 	EXP 	targetDisp: height = 0.05
+48.0634 	EXP 	targetDisp: height = 0.05
+48.0634 	EXP 	targetDisp: text = 'hospital '
+48.0711 	INFO 	Keyboard events cleared
+48.0710 	EXP 	targetDisp: autoDraw = True
+48.8248 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'prime': 'attend', 'target': 'ageef ', 'condition': 'nonword', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+48.8272 	DATA 	Keypress: j
+48.8303 	EXP 	targetDisp: autoDraw = False
+49.3219 	EXP 	fixationDisp: autoDraw = True
+50.3128 	EXP 	fixationDisp: autoDraw = False
+50.3128 	EXP 	fixationDisp: autoDraw = False
+50.3128 	EXP 	primeDisp: height = 0.05
+50.3128 	EXP 	primeDisp: height = 0.05
+50.3128 	EXP 	primeDisp: height = 0.05
+50.3128 	EXP 	primeDisp: text = 'attend'
+50.3217 	EXP 	primeDisp: autoDraw = True
+50.8127 	EXP 	primeDisp: autoDraw = False
+50.8127 	EXP 	primeDisp: autoDraw = False
+50.8127 	EXP 	targetDisp: height = 0.05
+50.8127 	EXP 	targetDisp: height = 0.05
+50.8127 	EXP 	targetDisp: height = 0.05
+50.8127 	EXP 	targetDisp: text = 'ageef '
+50.8219 	INFO 	Keyboard events cleared
+50.8219 	EXP 	targetDisp: autoDraw = True
+51.4920 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'prime': 'recognize', 'target': 'lim ', 'condition': 'nonword', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+51.4946 	DATA 	Keypress: f
+51.4982 	EXP 	targetDisp: autoDraw = False
+51.9886 	EXP 	fixationDisp: autoDraw = True
+52.9809 	EXP 	fixationDisp: autoDraw = False
+52.9809 	EXP 	fixationDisp: autoDraw = False
+52.9809 	EXP 	primeDisp: height = 0.05
+52.9809 	EXP 	primeDisp: height = 0.05
+52.9809 	EXP 	primeDisp: height = 0.05
+52.9809 	EXP 	primeDisp: text = 'recognize'
+52.9875 	EXP 	primeDisp: autoDraw = True
+53.4795 	EXP 	primeDisp: autoDraw = False
+53.4795 	EXP 	primeDisp: autoDraw = False
+53.4795 	EXP 	targetDisp: height = 0.05
+53.4795 	EXP 	targetDisp: height = 0.05
+53.4795 	EXP 	targetDisp: height = 0.05
+53.4795 	EXP 	targetDisp: text = 'lim '
+53.4884 	INFO 	Keyboard events cleared
+53.4884 	EXP 	targetDisp: autoDraw = True
+54.1142 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'prime': 'nutrition', 'target': 'plug ', 'condition': 'B', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+54.1168 	DATA 	Keypress: f
+54.1208 	EXP 	targetDisp: autoDraw = False
+54.6109 	EXP 	fixationDisp: autoDraw = True
+55.6042 	EXP 	fixationDisp: autoDraw = False
+55.6042 	EXP 	fixationDisp: autoDraw = False
+55.6042 	EXP 	primeDisp: height = 0.05
+55.6042 	EXP 	primeDisp: height = 0.05
+55.6042 	EXP 	primeDisp: height = 0.05
+55.6042 	EXP 	primeDisp: text = 'nutrition'
+55.6104 	EXP 	primeDisp: autoDraw = True
+56.1050 	EXP 	primeDisp: autoDraw = False
+56.1050 	EXP 	primeDisp: autoDraw = False
+56.1050 	EXP 	targetDisp: height = 0.05
+56.1050 	EXP 	targetDisp: height = 0.05
+56.1050 	EXP 	targetDisp: height = 0.05
+56.1050 	EXP 	targetDisp: text = 'plug '
+56.1110 	INFO 	Keyboard events cleared
+56.1109 	EXP 	targetDisp: autoDraw = True
+56.9476 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'prime': 'languish', 'target': 'wither ', 'condition': 'B', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+56.9501 	DATA 	Keypress: j
+56.9541 	EXP 	targetDisp: autoDraw = False
+57.4444 	EXP 	fixationDisp: autoDraw = True
+58.4375 	EXP 	fixationDisp: autoDraw = False
+58.4375 	EXP 	fixationDisp: autoDraw = False
+58.4375 	EXP 	primeDisp: height = 0.05
+58.4375 	EXP 	primeDisp: height = 0.05
+58.4375 	EXP 	primeDisp: height = 0.05
+58.4375 	EXP 	primeDisp: text = 'languish'
+58.4436 	EXP 	primeDisp: autoDraw = True
+58.9383 	EXP 	primeDisp: autoDraw = False
+58.9383 	EXP 	primeDisp: autoDraw = False
+58.9383 	EXP 	targetDisp: height = 0.05
+58.9383 	EXP 	targetDisp: height = 0.05
+58.9383 	EXP 	targetDisp: height = 0.05
+58.9383 	EXP 	targetDisp: text = 'wither '
+58.9443 	INFO 	Keyboard events cleared
+58.9442 	EXP 	targetDisp: autoDraw = True
+59.5913 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'prime': 'ruins', 'target': 'hegreef ', 'condition': 'nonword', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+59.5939 	DATA 	Keypress: j
+59.5974 	EXP 	targetDisp: autoDraw = False
+60.0884 	EXP 	fixationDisp: autoDraw = True
+61.0796 	EXP 	fixationDisp: autoDraw = False
+61.0796 	EXP 	fixationDisp: autoDraw = False
+61.0796 	EXP 	primeDisp: height = 0.05
+61.0796 	EXP 	primeDisp: height = 0.05
+61.0796 	EXP 	primeDisp: height = 0.05
+61.0796 	EXP 	primeDisp: text = 'ruins'
+61.0877 	EXP 	primeDisp: autoDraw = True
+61.5794 	EXP 	primeDisp: autoDraw = False
+61.5794 	EXP 	primeDisp: autoDraw = False
+61.5794 	EXP 	targetDisp: height = 0.05
+61.5794 	EXP 	targetDisp: height = 0.05
+61.5794 	EXP 	targetDisp: height = 0.05
+61.5794 	EXP 	targetDisp: text = 'hegreef '
+61.5885 	INFO 	Keyboard events cleared
+61.5885 	EXP 	targetDisp: autoDraw = True
+62.1914 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'prime': 'rider', 'target': 'mail ', 'condition': 'B', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+62.1939 	DATA 	Keypress: f
+62.1973 	EXP 	targetDisp: autoDraw = False
+62.6884 	EXP 	fixationDisp: autoDraw = True
+63.6794 	EXP 	fixationDisp: autoDraw = False
+63.6794 	EXP 	fixationDisp: autoDraw = False
+63.6794 	EXP 	primeDisp: height = 0.05
+63.6794 	EXP 	primeDisp: height = 0.05
+63.6794 	EXP 	primeDisp: height = 0.05
+63.6794 	EXP 	primeDisp: text = 'rider'
+63.6884 	EXP 	primeDisp: autoDraw = True
+64.1793 	EXP 	primeDisp: autoDraw = False
+64.1793 	EXP 	primeDisp: autoDraw = False
+64.1793 	EXP 	targetDisp: height = 0.05
+64.1793 	EXP 	targetDisp: height = 0.05
+64.1793 	EXP 	targetDisp: height = 0.05
+64.1793 	EXP 	targetDisp: text = 'mail '
+64.1883 	INFO 	Keyboard events cleared
+64.1883 	EXP 	targetDisp: autoDraw = True
+64.8746 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'prime': 'benefit', 'target': 'ummifent ', 'condition': 'nonword', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+64.8772 	DATA 	Keypress: j
+64.8798 	EXP 	targetDisp: autoDraw = False
+65.3717 	EXP 	fixationDisp: autoDraw = True
+66.3634 	EXP 	fixationDisp: autoDraw = False
+66.3634 	EXP 	fixationDisp: autoDraw = False
+66.3634 	EXP 	primeDisp: height = 0.05
+66.3634 	EXP 	primeDisp: height = 0.05
+66.3634 	EXP 	primeDisp: height = 0.05
+66.3634 	EXP 	primeDisp: text = 'benefit'
+66.3708 	EXP 	primeDisp: autoDraw = True
+66.8635 	EXP 	primeDisp: autoDraw = False
+66.8635 	EXP 	primeDisp: autoDraw = False
+66.8635 	EXP 	targetDisp: height = 0.05
+66.8635 	EXP 	targetDisp: height = 0.05
+66.8635 	EXP 	targetDisp: height = 0.05
+66.8635 	EXP 	targetDisp: text = 'ummifent '
+66.8707 	INFO 	Keyboard events cleared
+66.8707 	EXP 	targetDisp: autoDraw = True
+67.5583 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'prime': 'telecommunications', 'target': 'sliss ', 'condition': 'nonword', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+67.5598 	DATA 	Keypress: f
+67.5621 	EXP 	targetDisp: autoDraw = False
+68.0543 	EXP 	fixationDisp: autoDraw = True
+69.0474 	EXP 	fixationDisp: autoDraw = False
+69.0474 	EXP 	fixationDisp: autoDraw = False
+69.0474 	EXP 	primeDisp: height = 0.05
+69.0474 	EXP 	primeDisp: height = 0.05
+69.0474 	EXP 	primeDisp: height = 0.05
+69.0474 	EXP 	primeDisp: text = 'telecommunications'
+69.0540 	EXP 	primeDisp: autoDraw = True
+69.5464 	EXP 	primeDisp: autoDraw = False
+69.5464 	EXP 	primeDisp: autoDraw = False
+69.5464 	EXP 	targetDisp: height = 0.05
+69.5464 	EXP 	targetDisp: height = 0.05
+69.5464 	EXP 	targetDisp: height = 0.05
+69.5464 	EXP 	targetDisp: text = 'sliss '
+69.5541 	INFO 	Keyboard events cleared
+69.5541 	EXP 	targetDisp: autoDraw = True
+70.3415 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'prime': 'physiology', 'target': 'scriping ', 'condition': 'nonword', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+70.3450 	EXP 	targetDisp: autoDraw = False
+70.3499 	DATA 	Keypress: f
+70.8383 	EXP 	fixationDisp: autoDraw = True
+71.8298 	EXP 	fixationDisp: autoDraw = False
+71.8298 	EXP 	fixationDisp: autoDraw = False
+71.8298 	EXP 	primeDisp: height = 0.05
+71.8298 	EXP 	primeDisp: height = 0.05
+71.8298 	EXP 	primeDisp: height = 0.05
+71.8298 	EXP 	primeDisp: text = 'physiology'
+71.8383 	EXP 	primeDisp: autoDraw = True
+72.3286 	EXP 	primeDisp: autoDraw = False
+72.3286 	EXP 	primeDisp: autoDraw = False
+72.3286 	EXP 	targetDisp: height = 0.05
+72.3286 	EXP 	targetDisp: height = 0.05
+72.3286 	EXP 	targetDisp: height = 0.05
+72.3286 	EXP 	targetDisp: text = 'scriping '
+72.3382 	INFO 	Keyboard events cleared
+72.3382 	EXP 	targetDisp: autoDraw = True
+73.1579 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'prime': 'spoiled', 'target': 'pampered ', 'condition': 'A', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+73.1609 	DATA 	Keypress: f
+73.1642 	EXP 	targetDisp: autoDraw = False
+73.6548 	EXP 	fixationDisp: autoDraw = True
+74.6461 	EXP 	fixationDisp: autoDraw = False
+74.6461 	EXP 	fixationDisp: autoDraw = False
+74.6461 	EXP 	primeDisp: height = 0.05
+74.6461 	EXP 	primeDisp: height = 0.05
+74.6461 	EXP 	primeDisp: height = 0.05
+74.6461 	EXP 	primeDisp: text = 'spoiled'
+74.6544 	EXP 	primeDisp: autoDraw = True
+75.1463 	EXP 	primeDisp: autoDraw = False
+75.1463 	EXP 	primeDisp: autoDraw = False
+75.1463 	EXP 	targetDisp: height = 0.05
+75.1463 	EXP 	targetDisp: height = 0.05
+75.1463 	EXP 	targetDisp: height = 0.05
+75.1463 	EXP 	targetDisp: text = 'pampered '
+75.1540 	INFO 	Keyboard events cleared
+75.1540 	EXP 	targetDisp: autoDraw = True
+75.7753 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'prime': 'butterfly', 'target': 'author ', 'condition': 'A', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+75.7781 	DATA 	Keypress: j
+75.7815 	EXP 	targetDisp: autoDraw = False
+76.2715 	EXP 	fixationDisp: autoDraw = True
+77.2633 	EXP 	fixationDisp: autoDraw = False
+77.2633 	EXP 	fixationDisp: autoDraw = False
+77.2633 	EXP 	primeDisp: height = 0.05
+77.2633 	EXP 	primeDisp: height = 0.05
+77.2633 	EXP 	primeDisp: height = 0.05
+77.2633 	EXP 	primeDisp: text = 'butterfly'
+77.2705 	EXP 	primeDisp: autoDraw = True
+77.7626 	EXP 	primeDisp: autoDraw = False
+77.7626 	EXP 	primeDisp: autoDraw = False
+77.7626 	EXP 	targetDisp: height = 0.05
+77.7626 	EXP 	targetDisp: height = 0.05
+77.7626 	EXP 	targetDisp: height = 0.05
+77.7626 	EXP 	targetDisp: text = 'author '
+77.7712 	INFO 	Keyboard events cleared
+77.7712 	EXP 	targetDisp: autoDraw = True
+78.5082 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'prime': 'countryside', 'target': 'vision ', 'condition': 'A', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+78.5110 	DATA 	Keypress: f
+78.5143 	EXP 	targetDisp: autoDraw = False
+79.0049 	EXP 	fixationDisp: autoDraw = True
+79.9963 	EXP 	fixationDisp: autoDraw = False
+79.9963 	EXP 	fixationDisp: autoDraw = False
+79.9963 	EXP 	primeDisp: height = 0.05
+79.9963 	EXP 	primeDisp: height = 0.05
+79.9963 	EXP 	primeDisp: height = 0.05
+79.9963 	EXP 	primeDisp: text = 'countryside'
+80.0039 	EXP 	primeDisp: autoDraw = True
+80.4958 	EXP 	primeDisp: autoDraw = False
+80.4958 	EXP 	primeDisp: autoDraw = False
+80.4958 	EXP 	targetDisp: height = 0.05
+80.4958 	EXP 	targetDisp: height = 0.05
+80.4958 	EXP 	targetDisp: height = 0.05
+80.4958 	EXP 	targetDisp: text = 'vision '
+80.5048 	INFO 	Keyboard events cleared
+80.5047 	EXP 	targetDisp: autoDraw = True
+81.0911 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'prime': 'fight', 'target': 'cressfass ', 'condition': 'nonword', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+81.0940 	DATA 	Keypress: j
+81.0972 	EXP 	targetDisp: autoDraw = False
+81.5881 	EXP 	fixationDisp: autoDraw = True
+82.5795 	EXP 	fixationDisp: autoDraw = False
+82.5795 	EXP 	fixationDisp: autoDraw = False
+82.5795 	EXP 	primeDisp: height = 0.05
+82.5795 	EXP 	primeDisp: height = 0.05
+82.5795 	EXP 	primeDisp: height = 0.05
+82.5795 	EXP 	primeDisp: text = 'fight'
+82.5881 	EXP 	primeDisp: autoDraw = True
+83.0790 	EXP 	primeDisp: autoDraw = False
+83.0790 	EXP 	primeDisp: autoDraw = False
+83.0790 	EXP 	targetDisp: height = 0.05
+83.0790 	EXP 	targetDisp: height = 0.05
+83.0790 	EXP 	targetDisp: height = 0.05
+83.0790 	EXP 	targetDisp: text = 'cressfass '
+83.0882 	INFO 	Keyboard events cleared
+83.0882 	EXP 	targetDisp: autoDraw = True
+83.7411 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'prime': 'languish', 'target': 'ally ', 'condition': 'B', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+83.7438 	DATA 	Keypress: f
+83.7473 	EXP 	targetDisp: autoDraw = False
+84.2381 	EXP 	fixationDisp: autoDraw = True
+85.2294 	EXP 	fixationDisp: autoDraw = False
+85.2294 	EXP 	fixationDisp: autoDraw = False
+85.2294 	EXP 	primeDisp: height = 0.05
+85.2294 	EXP 	primeDisp: height = 0.05
+85.2294 	EXP 	primeDisp: height = 0.05
+85.2294 	EXP 	primeDisp: text = 'languish'
+85.2373 	EXP 	primeDisp: autoDraw = True
+85.7293 	EXP 	primeDisp: autoDraw = False
+85.7293 	EXP 	primeDisp: autoDraw = False
+85.7293 	EXP 	targetDisp: height = 0.05
+85.7293 	EXP 	targetDisp: height = 0.05
+85.7293 	EXP 	targetDisp: height = 0.05
+85.7293 	EXP 	targetDisp: text = 'ally '
+85.7374 	INFO 	Keyboard events cleared
+85.7374 	EXP 	targetDisp: autoDraw = True
+86.7411 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'prime': 'sweater', 'target': 'kell ', 'condition': 'nonword', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+86.7437 	DATA 	Keypress: j
+86.7470 	EXP 	targetDisp: autoDraw = False
+87.2380 	EXP 	fixationDisp: autoDraw = True
+88.2299 	EXP 	fixationDisp: autoDraw = False
+88.2299 	EXP 	fixationDisp: autoDraw = False
+88.2299 	EXP 	primeDisp: height = 0.05
+88.2299 	EXP 	primeDisp: height = 0.05
+88.2299 	EXP 	primeDisp: height = 0.05
+88.2299 	EXP 	primeDisp: text = 'sweater'
+88.2370 	EXP 	primeDisp: autoDraw = True
+88.7296 	EXP 	primeDisp: autoDraw = False
+88.7296 	EXP 	primeDisp: autoDraw = False
+88.7296 	EXP 	targetDisp: height = 0.05
+88.7296 	EXP 	targetDisp: height = 0.05
+88.7296 	EXP 	targetDisp: height = 0.05
+88.7296 	EXP 	targetDisp: text = 'kell '
+88.7372 	INFO 	Keyboard events cleared
+88.7371 	EXP 	targetDisp: autoDraw = True
+89.5132 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'prime': 'market', 'target': 'pagets ', 'condition': 'nonword', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+89.5157 	DATA 	Keypress: f
+89.5203 	EXP 	targetDisp: autoDraw = False
+90.0103 	EXP 	fixationDisp: autoDraw = True
+91.0039 	EXP 	fixationDisp: autoDraw = False
+91.0039 	EXP 	fixationDisp: autoDraw = False
+91.0039 	EXP 	primeDisp: height = 0.05
+91.0039 	EXP 	primeDisp: height = 0.05
+91.0039 	EXP 	primeDisp: height = 0.05
+91.0039 	EXP 	primeDisp: text = 'market'
+91.0101 	EXP 	primeDisp: autoDraw = True
+91.5039 	EXP 	primeDisp: autoDraw = False
+91.5039 	EXP 	primeDisp: autoDraw = False
+91.5039 	EXP 	targetDisp: height = 0.05
+91.5039 	EXP 	targetDisp: height = 0.05
+91.5039 	EXP 	targetDisp: height = 0.05
+91.5039 	EXP 	targetDisp: text = 'pagets '
+91.5101 	INFO 	Keyboard events cleared
+91.5100 	EXP 	targetDisp: autoDraw = True
+92.3638 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'prime': 'injured', 'target': 'stretcher ', 'condition': 'B', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+92.3665 	DATA 	Keypress: f
+92.3703 	EXP 	targetDisp: autoDraw = False
+92.8602 	EXP 	fixationDisp: autoDraw = True
+93.8547 	EXP 	fixationDisp: autoDraw = False
+93.8547 	EXP 	fixationDisp: autoDraw = False
+93.8547 	EXP 	primeDisp: height = 0.05
+93.8547 	EXP 	primeDisp: height = 0.05
+93.8547 	EXP 	primeDisp: height = 0.05
+93.8547 	EXP 	primeDisp: text = 'injured'
+93.8606 	EXP 	primeDisp: autoDraw = True
+94.3537 	EXP 	primeDisp: autoDraw = False
+94.3537 	EXP 	primeDisp: autoDraw = False
+94.3537 	EXP 	targetDisp: height = 0.05
+94.3537 	EXP 	targetDisp: height = 0.05
+94.3537 	EXP 	targetDisp: height = 0.05
+94.3537 	EXP 	targetDisp: text = 'stretcher '
+94.3598 	INFO 	Keyboard events cleared
+94.3597 	EXP 	targetDisp: autoDraw = True
+95.0804 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'prime': 'masses', 'target': 'leader ', 'condition': 'B', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+95.0834 	DATA 	Keypress: j
+95.0870 	EXP 	targetDisp: autoDraw = False
+95.5759 	EXP 	fixationDisp: autoDraw = True
+96.5703 	EXP 	fixationDisp: autoDraw = False
+96.5703 	EXP 	fixationDisp: autoDraw = False
+96.5703 	EXP 	primeDisp: height = 0.05
+96.5703 	EXP 	primeDisp: height = 0.05
+96.5703 	EXP 	primeDisp: height = 0.05
+96.5703 	EXP 	primeDisp: text = 'masses'
+96.5762 	EXP 	primeDisp: autoDraw = True
+97.0711 	EXP 	primeDisp: autoDraw = False
+97.0711 	EXP 	primeDisp: autoDraw = False
+97.0711 	EXP 	targetDisp: height = 0.05
+97.0711 	EXP 	targetDisp: height = 0.05
+97.0711 	EXP 	targetDisp: height = 0.05
+97.0711 	EXP 	targetDisp: text = 'leader '
+97.0771 	INFO 	Keyboard events cleared
+97.0770 	EXP 	targetDisp: autoDraw = True
+97.8246 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'prime': 'encourage', 'target': 'pownzie ', 'condition': 'nonword', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+97.8274 	DATA 	Keypress: j
+97.8309 	EXP 	targetDisp: autoDraw = False
+98.3212 	EXP 	fixationDisp: autoDraw = True
+99.3103 	EXP 	fixationDisp: autoDraw = False
+99.3103 	EXP 	fixationDisp: autoDraw = False
+99.3103 	EXP 	primeDisp: height = 0.05
+99.3103 	EXP 	primeDisp: height = 0.05
+99.3103 	EXP 	primeDisp: height = 0.05
+99.3103 	EXP 	primeDisp: text = 'encourage'
+99.3204 	EXP 	primeDisp: autoDraw = True
+99.8102 	EXP 	primeDisp: autoDraw = False
+99.8102 	EXP 	primeDisp: autoDraw = False
+99.8102 	EXP 	targetDisp: height = 0.05
+99.8102 	EXP 	targetDisp: height = 0.05
+99.8102 	EXP 	targetDisp: height = 0.05
+99.8102 	EXP 	targetDisp: text = 'pownzie '
+99.8206 	INFO 	Keyboard events cleared
+99.8206 	EXP 	targetDisp: autoDraw = True
+100.5076 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'prime': 'realize', 'target': 'oss ', 'condition': 'nonword', 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+100.5101 	DATA 	Keypress: f
+100.5134 	EXP 	targetDisp: autoDraw = False
+101.0045 	EXP 	fixationDisp: autoDraw = True
+101.9958 	EXP 	fixationDisp: autoDraw = False
+101.9958 	EXP 	fixationDisp: autoDraw = False
+101.9958 	EXP 	primeDisp: height = 0.05
+101.9958 	EXP 	primeDisp: height = 0.05
+101.9958 	EXP 	primeDisp: height = 0.05
+101.9958 	EXP 	primeDisp: text = 'realize'
+102.0037 	EXP 	primeDisp: autoDraw = True
+102.4956 	EXP 	primeDisp: autoDraw = False
+102.4956 	EXP 	primeDisp: autoDraw = False
+102.4956 	EXP 	targetDisp: height = 0.05
+102.4956 	EXP 	targetDisp: height = 0.05
+102.4956 	EXP 	targetDisp: height = 0.05
+102.4956 	EXP 	targetDisp: text = 'oss '
+102.5042 	INFO 	Keyboard events cleared
+102.5042 	EXP 	targetDisp: autoDraw = True
+103.1246 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'prime': 'interest', 'target': 'operate ', 'condition': 'A', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+103.1273 	DATA 	Keypress: f
+103.1309 	EXP 	targetDisp: autoDraw = False
+103.6211 	EXP 	fixationDisp: autoDraw = True
+104.6130 	EXP 	fixationDisp: autoDraw = False
+104.6130 	EXP 	fixationDisp: autoDraw = False
+104.6130 	EXP 	primeDisp: height = 0.05
+104.6130 	EXP 	primeDisp: height = 0.05
+104.6130 	EXP 	primeDisp: height = 0.05
+104.6130 	EXP 	primeDisp: text = 'interest'
+104.6202 	EXP 	primeDisp: autoDraw = True
+105.1133 	EXP 	primeDisp: autoDraw = False
+105.1133 	EXP 	primeDisp: autoDraw = False
+105.1133 	EXP 	targetDisp: height = 0.05
+105.1133 	EXP 	targetDisp: height = 0.05
+105.1133 	EXP 	targetDisp: height = 0.05
+105.1133 	EXP 	targetDisp: text = 'operate '
+105.1202 	INFO 	Keyboard events cleared
+105.1201 	EXP 	targetDisp: autoDraw = True
+105.8803 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'prime': 'curse', 'target': 'vo ', 'condition': 'nonword', 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+105.8832 	DATA 	Keypress: j
+105.8869 	EXP 	targetDisp: autoDraw = False
+106.3774 	EXP 	fixationDisp: autoDraw = True
+107.3702 	EXP 	fixationDisp: autoDraw = False
+107.3702 	EXP 	fixationDisp: autoDraw = False
+107.3702 	EXP 	primeDisp: height = 0.05
+107.3702 	EXP 	primeDisp: height = 0.05
+107.3702 	EXP 	primeDisp: height = 0.05
+107.3702 	EXP 	primeDisp: text = 'curse'
+107.3760 	EXP 	primeDisp: autoDraw = True
+107.8711 	EXP 	primeDisp: autoDraw = False
+107.8711 	EXP 	primeDisp: autoDraw = False
+107.8711 	EXP 	targetDisp: height = 0.05
+107.8711 	EXP 	targetDisp: height = 0.05
+107.8711 	EXP 	targetDisp: height = 0.05
+107.8711 	EXP 	targetDisp: text = 'vo '
+107.8774 	INFO 	Keyboard events cleared
+107.8773 	EXP 	targetDisp: autoDraw = True
+108.6741 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'prime': 'explanation', 'target': 'furniture ', 'condition': 'A', 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+108.6770 	DATA 	Keypress: f
+108.6803 	EXP 	targetDisp: autoDraw = False
+109.1710 	EXP 	fixationDisp: autoDraw = True
+110.1624 	EXP 	fixationDisp: autoDraw = False
+110.1624 	EXP 	fixationDisp: autoDraw = False
+110.1624 	EXP 	primeDisp: height = 0.05
+110.1624 	EXP 	primeDisp: height = 0.05
+110.1624 	EXP 	primeDisp: height = 0.05
+110.1624 	EXP 	primeDisp: text = 'explanation'
+110.1701 	EXP 	primeDisp: autoDraw = True
+110.6621 	EXP 	primeDisp: autoDraw = False
+110.6621 	EXP 	primeDisp: autoDraw = False
+110.6621 	EXP 	targetDisp: height = 0.05
+110.6621 	EXP 	targetDisp: height = 0.05
+110.6621 	EXP 	targetDisp: height = 0.05
+110.6621 	EXP 	targetDisp: text = 'furniture '
+110.6711 	INFO 	Keyboard events cleared
+110.6710 	EXP 	targetDisp: autoDraw = True
+111.4300 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'prime': 'border', 'target': 'ipent ', 'condition': 'nonword', 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+111.4327 	DATA 	Keypress: j
+111.4367 	EXP 	targetDisp: autoDraw = False
+111.9273 	EXP 	fixationDisp: autoDraw = True
+112.9212 	EXP 	fixationDisp: autoDraw = False
+112.9212 	EXP 	fixationDisp: autoDraw = False
+112.9212 	EXP 	primeDisp: height = 0.05
+112.9212 	EXP 	primeDisp: height = 0.05
+112.9212 	EXP 	primeDisp: height = 0.05
+112.9212 	EXP 	primeDisp: text = 'border'
+112.9272 	EXP 	primeDisp: autoDraw = True
+113.4210 	EXP 	primeDisp: autoDraw = False
+113.4210 	EXP 	primeDisp: autoDraw = False
+113.4210 	EXP 	targetDisp: height = 0.05
+113.4210 	EXP 	targetDisp: height = 0.05
+113.4210 	EXP 	targetDisp: height = 0.05
+113.4210 	EXP 	targetDisp: text = 'ipent '
+113.4270 	INFO 	Keyboard events cleared
+113.4269 	EXP 	targetDisp: autoDraw = True
+114.0573 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'prime': 'affair', 'target': 'clean ', 'condition': 'B', 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+114.0598 	DATA 	Keypress: f
+114.0632 	EXP 	targetDisp: autoDraw = False
+114.5544 	EXP 	fixationDisp: autoDraw = True
+115.5461 	EXP 	fixationDisp: autoDraw = False
+115.5461 	EXP 	fixationDisp: autoDraw = False
+115.5461 	EXP 	primeDisp: height = 0.05
+115.5461 	EXP 	primeDisp: height = 0.05
+115.5461 	EXP 	primeDisp: height = 0.05
+115.5461 	EXP 	primeDisp: text = 'affair'
+115.5534 	EXP 	primeDisp: autoDraw = True
+116.0431 	EXP 	primeDisp: autoDraw = False
+116.0431 	EXP 	primeDisp: autoDraw = False
+116.0431 	EXP 	targetDisp: height = 0.05
+116.0431 	EXP 	targetDisp: height = 0.05
+116.0431 	EXP 	targetDisp: height = 0.05
+116.0431 	EXP 	targetDisp: text = 'clean '
+116.0534 	INFO 	Keyboard events cleared
+116.0534 	EXP 	targetDisp: autoDraw = True
+116.6467 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'prime': 'prejudice', 'target': 'hero ', 'condition': 'A', 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+116.6496 	DATA 	Keypress: j
+116.6534 	EXP 	targetDisp: autoDraw = False
+117.1435 	EXP 	fixationDisp: autoDraw = True
+118.1367 	EXP 	fixationDisp: autoDraw = False
+118.1367 	EXP 	fixationDisp: autoDraw = False
+118.1367 	EXP 	primeDisp: height = 0.05
+118.1367 	EXP 	primeDisp: height = 0.05
+118.1367 	EXP 	primeDisp: height = 0.05
+118.1367 	EXP 	primeDisp: text = 'prejudice'
+118.1428 	EXP 	primeDisp: autoDraw = True
+118.6375 	EXP 	primeDisp: autoDraw = False
+118.6375 	EXP 	primeDisp: autoDraw = False
+118.6375 	EXP 	targetDisp: height = 0.05
+118.6375 	EXP 	targetDisp: height = 0.05
+118.6375 	EXP 	targetDisp: height = 0.05
+118.6375 	EXP 	targetDisp: text = 'hero '
+118.6435 	INFO 	Keyboard events cleared
+118.6434 	EXP 	targetDisp: autoDraw = True
+119.3405 	EXP 	New trial (rep=0, index=28): <Trial 28 (28 in rep 0) data={'prime': 'method', 'target': 'beduted ', 'condition': 'nonword', 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 0}>
+119.3432 	DATA 	Keypress: j
+119.3467 	EXP 	targetDisp: autoDraw = False
+119.8376 	EXP 	fixationDisp: autoDraw = True
+120.8294 	EXP 	fixationDisp: autoDraw = False
+120.8294 	EXP 	fixationDisp: autoDraw = False
+120.8294 	EXP 	primeDisp: height = 0.05
+120.8294 	EXP 	primeDisp: height = 0.05
+120.8294 	EXP 	primeDisp: height = 0.05
+120.8294 	EXP 	primeDisp: text = 'method'
+120.8366 	EXP 	primeDisp: autoDraw = True
+121.3287 	EXP 	primeDisp: autoDraw = False
+121.3287 	EXP 	primeDisp: autoDraw = False
+121.3287 	EXP 	targetDisp: height = 0.05
+121.3287 	EXP 	targetDisp: height = 0.05
+121.3287 	EXP 	targetDisp: height = 0.05
+121.3287 	EXP 	targetDisp: text = 'beduted '
+121.3373 	INFO 	Keyboard events cleared
+121.3372 	EXP 	targetDisp: autoDraw = True
+122.0246 	EXP 	New trial (rep=0, index=29): <Trial 29 (29 in rep 0) data={'prime': 'spoil', 'target': 'tale ', 'condition': 'A', 'thisN': 29, 'thisTrialN': 29, 'thisRepN': 0}>
+122.0273 	DATA 	Keypress: f
+122.0308 	EXP 	targetDisp: autoDraw = False
+122.5210 	EXP 	fixationDisp: autoDraw = True
+123.5129 	EXP 	fixationDisp: autoDraw = False
+123.5129 	EXP 	fixationDisp: autoDraw = False
+123.5129 	EXP 	primeDisp: height = 0.05
+123.5129 	EXP 	primeDisp: height = 0.05
+123.5129 	EXP 	primeDisp: height = 0.05
+123.5129 	EXP 	primeDisp: text = 'spoil'
+123.5199 	EXP 	primeDisp: autoDraw = True
+124.0119 	EXP 	primeDisp: autoDraw = False
+124.0119 	EXP 	primeDisp: autoDraw = False
+124.0119 	EXP 	targetDisp: height = 0.05
+124.0119 	EXP 	targetDisp: height = 0.05
+124.0119 	EXP 	targetDisp: height = 0.05
+124.0119 	EXP 	targetDisp: text = 'tale '
+124.0208 	INFO 	Keyboard events cleared
+124.0208 	EXP 	targetDisp: autoDraw = True
+124.7464 	EXP 	New trial (rep=0, index=30): <Trial 30 (30 in rep 0) data={'prime': 'injured', 'target': 'machine ', 'condition': 'B', 'thisN': 30, 'thisTrialN': 30, 'thisRepN': 0}>
+124.7492 	DATA 	Keypress: j
+124.7532 	EXP 	targetDisp: autoDraw = False
+125.2433 	EXP 	fixationDisp: autoDraw = True
+126.2368 	EXP 	fixationDisp: autoDraw = False
+126.2368 	EXP 	fixationDisp: autoDraw = False
+126.2368 	EXP 	primeDisp: height = 0.05
+126.2368 	EXP 	primeDisp: height = 0.05
+126.2368 	EXP 	primeDisp: height = 0.05
+126.2368 	EXP 	primeDisp: text = 'injured'
+126.2428 	EXP 	primeDisp: autoDraw = True
+126.7372 	EXP 	primeDisp: autoDraw = False
+126.7372 	EXP 	primeDisp: autoDraw = False
+126.7372 	EXP 	targetDisp: height = 0.05
+126.7372 	EXP 	targetDisp: height = 0.05
+126.7372 	EXP 	targetDisp: height = 0.05
+126.7372 	EXP 	targetDisp: text = 'machine '
+126.7433 	INFO 	Keyboard events cleared
+126.7432 	EXP 	targetDisp: autoDraw = True
+127.3464 	EXP 	New trial (rep=0, index=31): <Trial 31 (31 in rep 0) data={'prime': 'still', 'target': 'tonsamer ', 'condition': 'nonword', 'thisN': 31, 'thisTrialN': 31, 'thisRepN': 0}>
+127.3490 	DATA 	Keypress: j
+127.3531 	EXP 	targetDisp: autoDraw = False
+127.8442 	EXP 	fixationDisp: autoDraw = True
+128.8375 	EXP 	fixationDisp: autoDraw = False
+128.8375 	EXP 	fixationDisp: autoDraw = False
+128.8375 	EXP 	primeDisp: height = 0.05
+128.8375 	EXP 	primeDisp: height = 0.05
+128.8375 	EXP 	primeDisp: height = 0.05
+128.8375 	EXP 	primeDisp: text = 'still'
+128.8435 	EXP 	primeDisp: autoDraw = True
+129.3374 	EXP 	primeDisp: autoDraw = False
+129.3374 	EXP 	primeDisp: autoDraw = False
+129.3374 	EXP 	targetDisp: height = 0.05
+129.3374 	EXP 	targetDisp: height = 0.05
+129.3374 	EXP 	targetDisp: height = 0.05
+129.3374 	EXP 	targetDisp: text = 'tonsamer '
+129.3436 	INFO 	Keyboard events cleared
+129.3435 	EXP 	targetDisp: autoDraw = True
+129.9569 	EXP 	New trial (rep=0, index=32): <Trial 32 (32 in rep 0) data={'prime': 'chamber', 'target': 'limtressive ', 'condition': 'nonword', 'thisN': 32, 'thisTrialN': 32, 'thisRepN': 0}>
+129.9583 	DATA 	Keypress: f
+129.9605 	EXP 	targetDisp: autoDraw = False
+130.4535 	EXP 	fixationDisp: autoDraw = True
+131.4454 	EXP 	fixationDisp: autoDraw = False
+131.4454 	EXP 	fixationDisp: autoDraw = False
+131.4454 	EXP 	primeDisp: height = 0.05
+131.4454 	EXP 	primeDisp: height = 0.05
+131.4454 	EXP 	primeDisp: height = 0.05
+131.4454 	EXP 	primeDisp: text = 'chamber'
+131.4533 	EXP 	primeDisp: autoDraw = True
+131.9456 	EXP 	primeDisp: autoDraw = False
+131.9456 	EXP 	primeDisp: autoDraw = False
+131.9456 	EXP 	targetDisp: height = 0.05
+131.9456 	EXP 	targetDisp: height = 0.05
+131.9456 	EXP 	targetDisp: height = 0.05
+131.9456 	EXP 	targetDisp: text = 'limtressive '
+131.9532 	INFO 	Keyboard events cleared
+131.9532 	EXP 	targetDisp: autoDraw = True
+132.6746 	EXP 	New trial (rep=0, index=33): <Trial 33 (33 in rep 0) data={'prime': 'naughty', 'target': 'mischief ', 'condition': 'A', 'thisN': 33, 'thisTrialN': 33, 'thisRepN': 0}>
+132.6775 	DATA 	Keypress: f
+132.6811 	EXP 	targetDisp: autoDraw = False
+133.1708 	EXP 	fixationDisp: autoDraw = True
+133.4768 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+134.1627 	EXP 	fixationDisp: autoDraw = False
+134.1627 	EXP 	fixationDisp: autoDraw = False
+134.1627 	EXP 	primeDisp: height = 0.05
+134.1627 	EXP 	primeDisp: height = 0.05
+134.1627 	EXP 	primeDisp: height = 0.05
+134.1627 	EXP 	primeDisp: text = 'naughty'
+134.1697 	EXP 	primeDisp: autoDraw = True
+134.6626 	EXP 	primeDisp: autoDraw = False
+134.6626 	EXP 	primeDisp: autoDraw = False
+134.6626 	EXP 	targetDisp: height = 0.05
+134.6626 	EXP 	targetDisp: height = 0.05
+134.6626 	EXP 	targetDisp: height = 0.05
+134.6626 	EXP 	targetDisp: text = 'mischief '
+134.6698 	INFO 	Keyboard events cleared
+134.6697 	EXP 	targetDisp: autoDraw = True
+135.2631 	EXP 	New trial (rep=0, index=34): <Trial 34 (34 in rep 0) data={'prime': 'relieve', 'target': 'gittick ', 'condition': 'nonword', 'thisN': 34, 'thisTrialN': 34, 'thisRepN': 0}>
+135.2649 	DATA 	Keypress: j
+135.2699 	EXP 	targetDisp: autoDraw = False
+135.7605 	EXP 	fixationDisp: autoDraw = True
+136.7538 	EXP 	fixationDisp: autoDraw = False
+136.7538 	EXP 	fixationDisp: autoDraw = False
+136.7538 	EXP 	primeDisp: height = 0.05
+136.7538 	EXP 	primeDisp: height = 0.05
+136.7538 	EXP 	primeDisp: height = 0.05
+136.7538 	EXP 	primeDisp: text = 'relieve'
+136.7599 	EXP 	primeDisp: autoDraw = True
+137.2623 	INFO 	Keyboard events cleared
+137.2622 	EXP 	primeDisp: autoDraw = False
+137.2622 	EXP 	primeDisp: autoDraw = False
+137.2622 	EXP 	targetDisp: height = 0.05
+137.2622 	EXP 	targetDisp: height = 0.05
+137.2622 	EXP 	targetDisp: height = 0.05
+137.2622 	EXP 	targetDisp: text = 'gittick '
+137.2622 	EXP 	targetDisp: autoDraw = True
+138.0071 	EXP 	New trial (rep=0, index=35): <Trial 35 (35 in rep 0) data={'prime': 'nutrition', 'target': 'health ', 'condition': 'B', 'thisN': 35, 'thisTrialN': 35, 'thisRepN': 0}>
+138.0098 	DATA 	Keypress: f
+138.0132 	EXP 	targetDisp: autoDraw = False
+138.5040 	EXP 	fixationDisp: autoDraw = True
+139.4913 	EXP 	fixationDisp: autoDraw = False
+139.4913 	EXP 	fixationDisp: autoDraw = False
+139.4913 	EXP 	primeDisp: height = 0.05
+139.4913 	EXP 	primeDisp: height = 0.05
+139.4913 	EXP 	primeDisp: height = 0.05
+139.4913 	EXP 	primeDisp: text = 'nutrition'
+139.5032 	EXP 	primeDisp: autoDraw = True
+139.9954 	EXP 	primeDisp: autoDraw = False
+139.9954 	EXP 	primeDisp: autoDraw = False
+139.9954 	EXP 	targetDisp: height = 0.05
+139.9954 	EXP 	targetDisp: height = 0.05
+139.9954 	EXP 	targetDisp: height = 0.05
+139.9954 	EXP 	targetDisp: text = 'health '
+140.0031 	INFO 	Keyboard events cleared
+140.0030 	EXP 	targetDisp: autoDraw = True
+140.6630 	EXP 	New trial (rep=0, index=36): <Trial 36 (36 in rep 0) data={'prime': 'strong', 'target': 'rights ', 'condition': 'B', 'thisN': 36, 'thisTrialN': 36, 'thisRepN': 0}>
+140.6658 	DATA 	Keypress: j
+140.6697 	EXP 	targetDisp: autoDraw = False
+141.1604 	EXP 	fixationDisp: autoDraw = True
+142.1532 	EXP 	fixationDisp: autoDraw = False
+142.1532 	EXP 	fixationDisp: autoDraw = False
+142.1532 	EXP 	primeDisp: height = 0.05
+142.1532 	EXP 	primeDisp: height = 0.05
+142.1532 	EXP 	primeDisp: height = 0.05
+142.1532 	EXP 	primeDisp: text = 'strong'
+142.1594 	EXP 	primeDisp: autoDraw = True
+142.6532 	EXP 	primeDisp: autoDraw = False
+142.6532 	EXP 	primeDisp: autoDraw = False
+142.6532 	EXP 	targetDisp: height = 0.05
+142.6532 	EXP 	targetDisp: height = 0.05
+142.6532 	EXP 	targetDisp: height = 0.05
+142.6532 	EXP 	targetDisp: text = 'rights '
+142.6593 	INFO 	Keyboard events cleared
+142.6592 	EXP 	targetDisp: autoDraw = True
+143.5133 	EXP 	New trial (rep=0, index=37): <Trial 37 (37 in rep 0) data={'prime': 'result', 'target': 'reason ', 'condition': 'B', 'thisN': 37, 'thisTrialN': 37, 'thisRepN': 0}>
+143.5161 	DATA 	Keypress: f
+143.5197 	EXP 	targetDisp: autoDraw = False
+144.0102 	EXP 	fixationDisp: autoDraw = True
+145.0030 	EXP 	fixationDisp: autoDraw = False
+145.0030 	EXP 	fixationDisp: autoDraw = False
+145.0030 	EXP 	primeDisp: height = 0.05
+145.0030 	EXP 	primeDisp: height = 0.05
+145.0030 	EXP 	primeDisp: height = 0.05
+145.0030 	EXP 	primeDisp: text = 'result'
+145.0090 	EXP 	primeDisp: autoDraw = True
+145.5039 	EXP 	primeDisp: autoDraw = False
+145.5039 	EXP 	primeDisp: autoDraw = False
+145.5039 	EXP 	targetDisp: height = 0.05
+145.5039 	EXP 	targetDisp: height = 0.05
+145.5039 	EXP 	targetDisp: height = 0.05
+145.5039 	EXP 	targetDisp: text = 'reason '
+145.5098 	INFO 	Keyboard events cleared
+145.5097 	EXP 	targetDisp: autoDraw = True
+146.2736 	EXP 	New trial (rep=0, index=38): <Trial 38 (38 in rep 0) data={'prime': 'volunteer', 'target': 'dexgrisly ', 'condition': 'nonword', 'thisN': 38, 'thisTrialN': 38, 'thisRepN': 0}>
+146.2761 	DATA 	Keypress: j
+146.2796 	EXP 	targetDisp: autoDraw = False
+146.7707 	EXP 	fixationDisp: autoDraw = True
+147.7619 	EXP 	fixationDisp: autoDraw = False
+147.7619 	EXP 	fixationDisp: autoDraw = False
+147.7619 	EXP 	primeDisp: height = 0.05
+147.7619 	EXP 	primeDisp: height = 0.05
+147.7619 	EXP 	primeDisp: height = 0.05
+147.7619 	EXP 	primeDisp: text = 'volunteer'
+147.7697 	EXP 	primeDisp: autoDraw = True
+148.2616 	EXP 	primeDisp: autoDraw = False
+148.2616 	EXP 	primeDisp: autoDraw = False
+148.2616 	EXP 	targetDisp: height = 0.05
+148.2616 	EXP 	targetDisp: height = 0.05
+148.2616 	EXP 	targetDisp: height = 0.05
+148.2616 	EXP 	targetDisp: text = 'dexgrisly '
+148.2706 	INFO 	Keyboard events cleared
+148.2705 	EXP 	targetDisp: autoDraw = True
+148.9462 	EXP 	New trial (rep=0, index=39): <Trial 39 (39 in rep 0) data={'prime': 'alcohol', 'target': 'iveck ', 'condition': 'nonword', 'thisN': 39, 'thisTrialN': 39, 'thisRepN': 0}>
+148.9487 	DATA 	Keypress: f
+148.9529 	EXP 	targetDisp: autoDraw = False
+149.4436 	EXP 	fixationDisp: autoDraw = True
+150.4362 	EXP 	fixationDisp: autoDraw = False
+150.4362 	EXP 	fixationDisp: autoDraw = False
+150.4362 	EXP 	primeDisp: height = 0.05
+150.4362 	EXP 	primeDisp: height = 0.05
+150.4362 	EXP 	primeDisp: height = 0.05
+150.4362 	EXP 	primeDisp: text = 'alcohol'
+150.4423 	EXP 	primeDisp: autoDraw = True
+150.9366 	EXP 	primeDisp: autoDraw = False
+150.9366 	EXP 	primeDisp: autoDraw = False
+150.9366 	EXP 	targetDisp: height = 0.05
+150.9366 	EXP 	targetDisp: height = 0.05
+150.9366 	EXP 	targetDisp: height = 0.05
+150.9366 	EXP 	targetDisp: text = 'iveck '
+150.9427 	INFO 	Keyboard events cleared
+150.9426 	EXP 	targetDisp: autoDraw = True
+151.5901 	EXP 	New trial (rep=0, index=40): <Trial 40 (40 in rep 0) data={'prime': 'comb', 'target': 'noosies ', 'condition': 'nonword', 'thisN': 40, 'thisTrialN': 40, 'thisRepN': 0}>
+151.5927 	DATA 	Keypress: f
+151.5960 	EXP 	targetDisp: autoDraw = False
+152.0873 	EXP 	fixationDisp: autoDraw = True
+153.0785 	EXP 	fixationDisp: autoDraw = False
+153.0785 	EXP 	fixationDisp: autoDraw = False
+153.0785 	EXP 	primeDisp: height = 0.05
+153.0785 	EXP 	primeDisp: height = 0.05
+153.0785 	EXP 	primeDisp: height = 0.05
+153.0785 	EXP 	primeDisp: text = 'comb'
+153.0864 	EXP 	primeDisp: autoDraw = True
+153.5781 	EXP 	primeDisp: autoDraw = False
+153.5781 	EXP 	primeDisp: autoDraw = False
+153.5781 	EXP 	targetDisp: height = 0.05
+153.5781 	EXP 	targetDisp: height = 0.05
+153.5781 	EXP 	targetDisp: height = 0.05
+153.5781 	EXP 	targetDisp: text = 'noosies '
+153.5871 	INFO 	Keyboard events cleared
+153.5871 	EXP 	targetDisp: autoDraw = True
+154.3294 	EXP 	New trial (rep=0, index=41): <Trial 41 (41 in rep 0) data={'prime': 'thinking', 'target': 'memory ', 'condition': 'B', 'thisN': 41, 'thisTrialN': 41, 'thisRepN': 0}>
+154.3319 	DATA 	Keypress: f
+154.3361 	EXP 	targetDisp: autoDraw = False
+154.8261 	EXP 	fixationDisp: autoDraw = True
+155.8205 	EXP 	fixationDisp: autoDraw = False
+155.8205 	EXP 	fixationDisp: autoDraw = False
+155.8205 	EXP 	primeDisp: height = 0.05
+155.8205 	EXP 	primeDisp: height = 0.05
+155.8205 	EXP 	primeDisp: height = 0.05
+155.8205 	EXP 	primeDisp: text = 'thinking'
+155.8264 	EXP 	primeDisp: autoDraw = True
+156.3199 	EXP 	primeDisp: autoDraw = False
+156.3199 	EXP 	primeDisp: autoDraw = False
+156.3199 	EXP 	targetDisp: height = 0.05
+156.3199 	EXP 	targetDisp: height = 0.05
+156.3199 	EXP 	targetDisp: height = 0.05
+156.3199 	EXP 	targetDisp: text = 'memory '
+156.3260 	INFO 	Keyboard events cleared
+156.3259 	EXP 	targetDisp: autoDraw = True
+156.8961 	EXP 	New trial (rep=0, index=42): <Trial 42 (42 in rep 0) data={'prime': 'math', 'target': 'equation', 'condition': 'A', 'thisN': 42, 'thisTrialN': 42, 'thisRepN': 0}>
+156.8986 	DATA 	Keypress: j
+156.9027 	EXP 	targetDisp: autoDraw = False
+157.3935 	EXP 	fixationDisp: autoDraw = True
+158.3871 	EXP 	fixationDisp: autoDraw = False
+158.3871 	EXP 	fixationDisp: autoDraw = False
+158.3871 	EXP 	primeDisp: height = 0.05
+158.3871 	EXP 	primeDisp: height = 0.05
+158.3871 	EXP 	primeDisp: height = 0.05
+158.3871 	EXP 	primeDisp: text = 'math'
+158.3930 	EXP 	primeDisp: autoDraw = True
+158.8871 	EXP 	primeDisp: autoDraw = False
+158.8871 	EXP 	primeDisp: autoDraw = False
+158.8871 	EXP 	targetDisp: height = 0.05
+158.8871 	EXP 	targetDisp: height = 0.05
+158.8871 	EXP 	targetDisp: height = 0.05
+158.8871 	EXP 	targetDisp: text = 'equation'
+158.8930 	INFO 	Keyboard events cleared
+158.8930 	EXP 	targetDisp: autoDraw = True
+159.4904 	EXP 	New trial (rep=0, index=43): <Trial 43 (43 in rep 0) data={'prime': 'countryside', 'target': 'county seat ', 'condition': 'A', 'thisN': 43, 'thisTrialN': 43, 'thisRepN': 0}>
+159.4930 	DATA 	Keypress: j
+159.4966 	EXP 	targetDisp: autoDraw = False
+159.9871 	EXP 	fixationDisp: autoDraw = True
+160.9785 	EXP 	fixationDisp: autoDraw = False
+160.9785 	EXP 	fixationDisp: autoDraw = False
+160.9785 	EXP 	primeDisp: height = 0.05
+160.9785 	EXP 	primeDisp: height = 0.05
+160.9785 	EXP 	primeDisp: height = 0.05
+160.9785 	EXP 	primeDisp: text = 'countryside'
+160.9861 	EXP 	primeDisp: autoDraw = True
+161.4764 	EXP 	primeDisp: autoDraw = False
+161.4764 	EXP 	primeDisp: autoDraw = False
+161.4764 	EXP 	targetDisp: height = 0.05
+161.4764 	EXP 	targetDisp: height = 0.05
+161.4764 	EXP 	targetDisp: height = 0.05
+161.4764 	EXP 	targetDisp: text = 'county seat '
+161.4862 	INFO 	Keyboard events cleared
+161.4862 	EXP 	targetDisp: autoDraw = True
+162.3393 	EXP 	New trial (rep=0, index=44): <Trial 44 (44 in rep 0) data={'prime': 'consciousness', 'target': 'sugby ', 'condition': 'nonword', 'thisN': 44, 'thisTrialN': 44, 'thisRepN': 0}>
+162.3420 	DATA 	Keypress: j
+162.3446 	EXP 	targetDisp: autoDraw = False
+162.8370 	EXP 	fixationDisp: autoDraw = True
+163.8285 	EXP 	fixationDisp: autoDraw = False
+163.8285 	EXP 	fixationDisp: autoDraw = False
+163.8285 	EXP 	primeDisp: height = 0.05
+163.8285 	EXP 	primeDisp: height = 0.05
+163.8285 	EXP 	primeDisp: height = 0.05
+163.8285 	EXP 	primeDisp: text = 'consciousness'
+163.8361 	EXP 	primeDisp: autoDraw = True
+164.3281 	EXP 	primeDisp: autoDraw = False
+164.3281 	EXP 	primeDisp: autoDraw = False
+164.3281 	EXP 	targetDisp: height = 0.05
+164.3281 	EXP 	targetDisp: height = 0.05
+164.3281 	EXP 	targetDisp: height = 0.05
+164.3281 	EXP 	targetDisp: text = 'sugby '
+164.3371 	INFO 	Keyboard events cleared
+164.3371 	EXP 	targetDisp: autoDraw = True
+164.9792 	EXP 	New trial (rep=0, index=45): <Trial 45 (45 in rep 0) data={'prime': 'math', 'target': 'guard ', 'condition': 'A', 'thisN': 45, 'thisTrialN': 45, 'thisRepN': 0}>
+164.9820 	DATA 	Keypress: f
+164.9860 	EXP 	targetDisp: autoDraw = False
+165.4767 	EXP 	fixationDisp: autoDraw = True
+166.4695 	EXP 	fixationDisp: autoDraw = False
+166.4695 	EXP 	fixationDisp: autoDraw = False
+166.4695 	EXP 	primeDisp: height = 0.05
+166.4695 	EXP 	primeDisp: height = 0.05
+166.4695 	EXP 	primeDisp: height = 0.05
+166.4695 	EXP 	primeDisp: text = 'math'
+166.4731 	EXP 	primeDisp: autoDraw = True
+166.9694 	EXP 	primeDisp: autoDraw = False
+166.9694 	EXP 	primeDisp: autoDraw = False
+166.9694 	EXP 	targetDisp: height = 0.05
+166.9694 	EXP 	targetDisp: height = 0.05
+166.9694 	EXP 	targetDisp: height = 0.05
+166.9694 	EXP 	targetDisp: text = 'guard '
+166.9756 	INFO 	Keyboard events cleared
+166.9755 	EXP 	targetDisp: autoDraw = True
+167.5573 	EXP 	New trial (rep=0, index=46): <Trial 46 (46 in rep 0) data={'prime': 'depart', 'target': 'gined ', 'condition': 'nonword', 'thisN': 46, 'thisTrialN': 46, 'thisRepN': 0}>
+167.5601 	DATA 	Keypress: j
+167.5635 	EXP 	targetDisp: autoDraw = False
+168.0537 	EXP 	fixationDisp: autoDraw = True
+169.0447 	EXP 	fixationDisp: autoDraw = False
+169.0447 	EXP 	fixationDisp: autoDraw = False
+169.0447 	EXP 	primeDisp: height = 0.05
+169.0447 	EXP 	primeDisp: height = 0.05
+169.0447 	EXP 	primeDisp: height = 0.05
+169.0447 	EXP 	primeDisp: text = 'depart'
+169.0533 	EXP 	primeDisp: autoDraw = True
+169.5446 	EXP 	primeDisp: autoDraw = False
+169.5446 	EXP 	primeDisp: autoDraw = False
+169.5446 	EXP 	targetDisp: height = 0.05
+169.5446 	EXP 	targetDisp: height = 0.05
+169.5446 	EXP 	targetDisp: height = 0.05
+169.5446 	EXP 	targetDisp: text = 'gined '
+169.5529 	INFO 	Keyboard events cleared
+169.5529 	EXP 	targetDisp: autoDraw = True
+170.2568 	EXP 	New trial (rep=0, index=47): <Trial 47 (47 in rep 0) data={'prime': 'tell', 'target': 'dauf ', 'condition': 'nonword', 'thisN': 47, 'thisTrialN': 47, 'thisRepN': 0}>
+170.2593 	DATA 	Keypress: f
+170.2628 	EXP 	targetDisp: autoDraw = False
+170.7528 	EXP 	fixationDisp: autoDraw = True
+171.7448 	EXP 	fixationDisp: autoDraw = False
+171.7448 	EXP 	fixationDisp: autoDraw = False
+171.7448 	EXP 	primeDisp: height = 0.05
+171.7448 	EXP 	primeDisp: height = 0.05
+171.7448 	EXP 	primeDisp: height = 0.05
+171.7448 	EXP 	primeDisp: text = 'tell'
+171.7528 	EXP 	primeDisp: autoDraw = True
+172.2444 	EXP 	primeDisp: autoDraw = False
+172.2444 	EXP 	primeDisp: autoDraw = False
+172.2444 	EXP 	targetDisp: height = 0.05
+172.2444 	EXP 	targetDisp: height = 0.05
+172.2444 	EXP 	targetDisp: height = 0.05
+172.2444 	EXP 	targetDisp: text = 'dauf '
+172.2536 	INFO 	Keyboard events cleared
+172.2535 	EXP 	targetDisp: autoDraw = True
+172.8734 	EXP 	New trial (rep=0, index=48): <Trial 48 (48 in rep 0) data={'prime': 'pack', 'target': 'opersime ', 'condition': 'nonword', 'thisN': 48, 'thisTrialN': 48, 'thisRepN': 0}>
+172.8762 	DATA 	Keypress: f
+172.8795 	EXP 	targetDisp: autoDraw = False
+173.3703 	EXP 	fixationDisp: autoDraw = True
+174.3613 	EXP 	fixationDisp: autoDraw = False
+174.3613 	EXP 	fixationDisp: autoDraw = False
+174.3613 	EXP 	primeDisp: height = 0.05
+174.3613 	EXP 	primeDisp: height = 0.05
+174.3613 	EXP 	primeDisp: height = 0.05
+174.3613 	EXP 	primeDisp: text = 'pack'
+174.3701 	EXP 	primeDisp: autoDraw = True
+174.8613 	EXP 	primeDisp: autoDraw = False
+174.8613 	EXP 	primeDisp: autoDraw = False
+174.8613 	EXP 	targetDisp: height = 0.05
+174.8613 	EXP 	targetDisp: height = 0.05
+174.8613 	EXP 	targetDisp: height = 0.05
+174.8613 	EXP 	targetDisp: text = 'opersime '
+174.8700 	INFO 	Keyboard events cleared
+174.8699 	EXP 	targetDisp: autoDraw = True
+175.5905 	EXP 	New trial (rep=0, index=49): <Trial 49 (49 in rep 0) data={'prime': 'court', 'target': 'kears ', 'condition': 'nonword', 'thisN': 49, 'thisTrialN': 49, 'thisRepN': 0}>
+175.5929 	DATA 	Keypress: f
+175.5962 	EXP 	targetDisp: autoDraw = False
+176.0869 	EXP 	fixationDisp: autoDraw = True
+177.0785 	EXP 	fixationDisp: autoDraw = False
+177.0785 	EXP 	fixationDisp: autoDraw = False
+177.0785 	EXP 	primeDisp: height = 0.05
+177.0785 	EXP 	primeDisp: height = 0.05
+177.0785 	EXP 	primeDisp: height = 0.05
+177.0785 	EXP 	primeDisp: text = 'court'
+177.0858 	EXP 	primeDisp: autoDraw = True
+177.5785 	EXP 	primeDisp: autoDraw = False
+177.5785 	EXP 	primeDisp: autoDraw = False
+177.5785 	EXP 	targetDisp: height = 0.05
+177.5785 	EXP 	targetDisp: height = 0.05
+177.5785 	EXP 	targetDisp: height = 0.05
+177.5785 	EXP 	targetDisp: text = 'kears '
+177.5860 	INFO 	Keyboard events cleared
+177.5859 	EXP 	targetDisp: autoDraw = True
+178.2405 	EXP 	New trial (rep=0, index=50): <Trial 50 (50 in rep 0) data={'prime': 'feature', 'target': 'characteristic ', 'condition': 'B', 'thisN': 50, 'thisTrialN': 50, 'thisRepN': 0}>
+178.2431 	DATA 	Keypress: f
+178.2465 	EXP 	targetDisp: autoDraw = False
+178.7368 	EXP 	fixationDisp: autoDraw = True
+179.7281 	EXP 	fixationDisp: autoDraw = False
+179.7281 	EXP 	fixationDisp: autoDraw = False
+179.7281 	EXP 	primeDisp: height = 0.05
+179.7281 	EXP 	primeDisp: height = 0.05
+179.7281 	EXP 	primeDisp: height = 0.05
+179.7281 	EXP 	primeDisp: text = 'feature'
+179.7360 	EXP 	primeDisp: autoDraw = True
+180.2283 	EXP 	primeDisp: autoDraw = False
+180.2283 	EXP 	primeDisp: autoDraw = False
+180.2283 	EXP 	targetDisp: height = 0.05
+180.2283 	EXP 	targetDisp: height = 0.05
+180.2283 	EXP 	targetDisp: height = 0.05
+180.2283 	EXP 	targetDisp: text = 'characteristic '
+180.2359 	INFO 	Keyboard events cleared
+180.2359 	EXP 	targetDisp: autoDraw = True
+181.0124 	EXP 	New trial (rep=0, index=51): <Trial 51 (51 in rep 0) data={'prime': 'butterfly', 'target': 'bee ', 'condition': 'A', 'thisN': 51, 'thisTrialN': 51, 'thisRepN': 0}>
+181.0149 	DATA 	Keypress: j
+181.0191 	EXP 	targetDisp: autoDraw = False
+181.5097 	EXP 	fixationDisp: autoDraw = True
+182.5033 	EXP 	fixationDisp: autoDraw = False
+182.5033 	EXP 	fixationDisp: autoDraw = False
+182.5033 	EXP 	primeDisp: height = 0.05
+182.5033 	EXP 	primeDisp: height = 0.05
+182.5033 	EXP 	primeDisp: height = 0.05
+182.5033 	EXP 	primeDisp: text = 'butterfly'
+182.5093 	EXP 	primeDisp: autoDraw = True
+183.0034 	EXP 	primeDisp: autoDraw = False
+183.0034 	EXP 	primeDisp: autoDraw = False
+183.0034 	EXP 	targetDisp: height = 0.05
+183.0034 	EXP 	targetDisp: height = 0.05
+183.0034 	EXP 	targetDisp: height = 0.05
+183.0034 	EXP 	targetDisp: text = 'bee '
+183.0096 	INFO 	Keyboard events cleared
+183.0095 	EXP 	targetDisp: autoDraw = True
+183.7455 	EXP 	New trial (rep=0, index=52): <Trial 52 (52 in rep 0) data={'prime': 'cheap', 'target': 'price ', 'condition': 'A', 'thisN': 52, 'thisTrialN': 52, 'thisRepN': 0}>
+183.7481 	DATA 	Keypress: j
+183.7524 	EXP 	targetDisp: autoDraw = False
+184.2431 	EXP 	fixationDisp: autoDraw = True
+185.2359 	EXP 	fixationDisp: autoDraw = False
+185.2359 	EXP 	fixationDisp: autoDraw = False
+185.2359 	EXP 	primeDisp: height = 0.05
+185.2359 	EXP 	primeDisp: height = 0.05
+185.2359 	EXP 	primeDisp: height = 0.05
+185.2359 	EXP 	primeDisp: text = 'cheap'
+185.2419 	EXP 	primeDisp: autoDraw = True
+185.7366 	EXP 	primeDisp: autoDraw = False
+185.7366 	EXP 	primeDisp: autoDraw = False
+185.7366 	EXP 	targetDisp: height = 0.05
+185.7366 	EXP 	targetDisp: height = 0.05
+185.7366 	EXP 	targetDisp: height = 0.05
+185.7366 	EXP 	targetDisp: text = 'price '
+185.7427 	INFO 	Keyboard events cleared
+185.7426 	EXP 	targetDisp: autoDraw = True
+186.9736 	EXP 	New trial (rep=0, index=53): <Trial 53 (53 in rep 0) data={'prime': 'music', 'target': 'dapours ', 'condition': 'nonword', 'thisN': 53, 'thisTrialN': 53, 'thisRepN': 0}>
+186.9760 	DATA 	Keypress: j
+186.9795 	EXP 	targetDisp: autoDraw = False
+187.4701 	EXP 	fixationDisp: autoDraw = True
+188.4611 	EXP 	fixationDisp: autoDraw = False
+188.4611 	EXP 	fixationDisp: autoDraw = False
+188.4611 	EXP 	primeDisp: height = 0.05
+188.4611 	EXP 	primeDisp: height = 0.05
+188.4611 	EXP 	primeDisp: height = 0.05
+188.4611 	EXP 	primeDisp: text = 'music'
+188.4699 	EXP 	primeDisp: autoDraw = True
+188.9616 	EXP 	primeDisp: autoDraw = False
+188.9616 	EXP 	primeDisp: autoDraw = False
+188.9616 	EXP 	targetDisp: height = 0.05
+188.9616 	EXP 	targetDisp: height = 0.05
+188.9616 	EXP 	targetDisp: height = 0.05
+188.9616 	EXP 	targetDisp: text = 'dapours '
+188.9691 	INFO 	Keyboard events cleared
+188.9690 	EXP 	targetDisp: autoDraw = True
+189.5953 	EXP 	New trial (rep=0, index=54): <Trial 54 (54 in rep 0) data={'prime': 'register', 'target': 'fiss ', 'condition': 'nonword', 'thisN': 54, 'thisTrialN': 54, 'thisRepN': 0}>
+189.5979 	DATA 	Keypress: f
+189.6023 	EXP 	targetDisp: autoDraw = False
+190.0929 	EXP 	fixationDisp: autoDraw = True
+191.0867 	EXP 	fixationDisp: autoDraw = False
+191.0867 	EXP 	fixationDisp: autoDraw = False
+191.0867 	EXP 	primeDisp: height = 0.05
+191.0867 	EXP 	primeDisp: height = 0.05
+191.0867 	EXP 	primeDisp: height = 0.05
+191.0867 	EXP 	primeDisp: text = 'register'
+191.0928 	EXP 	primeDisp: autoDraw = True
+191.5866 	EXP 	primeDisp: autoDraw = False
+191.5866 	EXP 	primeDisp: autoDraw = False
+191.5866 	EXP 	targetDisp: height = 0.05
+191.5866 	EXP 	targetDisp: height = 0.05
+191.5866 	EXP 	targetDisp: height = 0.05
+191.5866 	EXP 	targetDisp: text = 'fiss '
+191.5926 	INFO 	Keyboard events cleared
+191.5925 	EXP 	targetDisp: autoDraw = True
+192.2996 	EXP 	New trial (rep=0, index=55): <Trial 55 (55 in rep 0) data={'prime': 'towel', 'target': 'gelogote ', 'condition': 'nonword', 'thisN': 55, 'thisTrialN': 55, 'thisRepN': 0}>
+192.3010 	DATA 	Keypress: f
+192.3035 	EXP 	targetDisp: autoDraw = False
+192.7920 	EXP 	fixationDisp: autoDraw = True
+193.7866 	EXP 	fixationDisp: autoDraw = False
+193.7866 	EXP 	fixationDisp: autoDraw = False
+193.7866 	EXP 	primeDisp: height = 0.05
+193.7866 	EXP 	primeDisp: height = 0.05
+193.7866 	EXP 	primeDisp: height = 0.05
+193.7866 	EXP 	primeDisp: text = 'towel'
+193.7927 	EXP 	primeDisp: autoDraw = True
+194.2866 	EXP 	primeDisp: autoDraw = False
+194.2866 	EXP 	primeDisp: autoDraw = False
+194.2866 	EXP 	targetDisp: height = 0.05
+194.2866 	EXP 	targetDisp: height = 0.05
+194.2866 	EXP 	targetDisp: height = 0.05
+194.2866 	EXP 	targetDisp: text = 'gelogote '
+194.2925 	INFO 	Keyboard events cleared
+194.2924 	EXP 	targetDisp: autoDraw = True
+194.9992 	DATA 	Keypress: f
+195.0028 	EXP 	targetDisp: autoDraw = False
+195.0028 	EXP 	completeMessage: autoDraw = True
+196.7083 	DATA 	Keypress: space
+197.2637 	DATA 	Keypress: f
+198.9412 	DATA 	Keypress: escape
+199.0389 	EXP 	English1-LDT: status = STOPPED
+199.0430 	EXP 	completeMessage: autoDraw = False
+199.0447 	EXP 	English1-LDT: status = STOPPED
+199.0675 	INFO 	saved data to '/Users/ericpelzl/Documents/GitHub/cbs3402/Priming/psychopy/English1/data/sample-data_English1-LDT_2025-09-08_10h40.30.086.csv'
+199.0683 	INFO 	saved data to /Users/ericpelzl/Documents/GitHub/cbs3402/Priming/psychopy/English1/data/sample-data_English1-LDT_2025-09-08_10h40.30.086.psydat
+199.0894 	DEBUG 	Saving data for English1-LDT ExperimentHandler
+199.0911 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0912 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0912 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0912 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0912 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0912 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0913 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0913 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0913 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0913 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0913 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+199.0913 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
