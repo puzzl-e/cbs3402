@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
-    on Sat Sep  6 15:13:06 2025
+    on Mon Sep  8 10:40:23 2025
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -125,7 +125,7 @@ def setupData(expInfo, dataDir=None):
     thisExp = data.ExperimentHandler(
         name=expName, version='',
         extraInfo=expInfo, runtimeInfo=None,
-        originPath='/Users/ericpelzl/Documents/GitHub/cbs592/Priming/psychopy/English1/English1-LDT_lastrun.py',
+        originPath='/Users/ericpelzl/Documents/GitHub/cbs3402/Priming/psychopy/English1/English1-LDT_lastrun.py',
         savePickle=True, saveWideText=True,
         dataFileName=dataDir + os.sep + filename, sortColumns='time'
     )
@@ -430,7 +430,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     
     # --- Initialize components for Routine "instructions2" ---
     text = visual.TextStim(win=win, name='text',
-        text='On each trial you will see some characters, and a moment later you will see some more characters.\n\n(Press SPACE to read the next page of instructions.)',
+        text='On each trial you will see an English word, and a moment later you will see another set of English letters.\n\n(Press SPACE to read the next page of instructions.)',
         font='Open Sans',
         pos=(0, 0), draggable=False, height=0.05, wrapWidth=None, ori=0.0, 
         color='white', colorSpace='rgb', opacity=None, 
@@ -440,7 +440,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     
     # --- Initialize components for Routine "instructions3" ---
     text_2 = visual.TextStim(win=win, name='text_2',
-        text='Your job is to ignore the FIRST set of characters, and judge the SECOND set of characters.\n\n(Press SPACE to read the next page of instructions.)',
+        text='Your job is to ignore the FIRST word, and judge the SECOND set of letters.\n\n(Press SPACE to read the next page of instructions.)',
         font='Open Sans',
         pos=(0, 0), draggable=False, height=0.05, wrapWidth=None, ori=0.0, 
         color='white', colorSpace='rgb', opacity=None, 
@@ -450,7 +450,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     
     # --- Initialize components for Routine "instructions4" ---
     text_3 = visual.TextStim(win=win, name='text_3',
-        text='Press J if the second set of characters you see is a real word in Mandarin, or \n\nPress F if it is NOT a real word.\n\n(Press SPACE to read the next page of instructions.)',
+        text='Press J if the second set of letters you see is a real word in English, or \n\nPress F if it is NOT a real word.\n\n(Press SPACE to read the next page of instructions.)',
         font='Open Sans',
         pos=(0, 0), draggable=False, height=0.05, wrapWidth=None, ori=0.0, 
         color='white', colorSpace='rgb', opacity=None, 
